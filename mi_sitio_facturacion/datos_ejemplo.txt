@@ -1,0 +1,14 @@
+Clientes:
+- Juan Pérez, juan@example.com, 555-1234
+
+Productos:
+- Auriculares Bluetooth, $59.99, Categoría: Electrónica
+
+Categorías:
+- Electrónica
+
+Empleados:
+- Ana Martínez, Vendedora
+
+Proveedores:
+- TechSupply Inc., proveedor@techsupply.com
